@@ -1,0 +1,66 @@
+Welcome to the python puzzle game!
+
+To select a level, click on it.
+You can only click on a unlocked
+level, (with orange text). If the
+list of levels doesn't fit on the
+screen you can scroll in the list
+with the scroll wheel or the arrow
+keys on the keyboard. When you
+select a level the game plan will
+open.
+
+The goal of the game is to change
+the variables initialised on the
+top left to the values in the
+bottom left area, using snippets
+of code.
+
+The game plan is divided in to two
+sides. On the right side you have
+all the code snippets and on the
+left you have your test area.
+
+Both the left and right side is
+scrollable if the list doesn't fit
+in the area on the screen.
+You can scroll in the list with
+the scroll wheel or by placing the
+mouse in the list and using the
+arrow keys on the keyboard.
+
+To add a code snippet from the
+list to the right just click on it and it will
+be added to the bottom of the list
+on the left.
+
+To change order in the left list
+just click on the snippet and drag to the place
+you want to have it in, and when
+you drop it it will move there.
+
+To remove a snippet simply drag it
+out of the left area.
+
+When you think you have a solution
+press Test and see if the solution
+is correct or not. If the solution
+is correct the goal variables will
+turn green and a next button will
+appear, click that to get to the
+next level.
+
+To get back to the menu, simply
+press the Menu button.
+
+To clear your solution, press the
+Restart button.
+
+If you need a Clue or some
+explanation for the level press
+the Clue button.
+
+HAVE FUN!
+
+
+

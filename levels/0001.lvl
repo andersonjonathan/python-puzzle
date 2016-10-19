@@ -1,0 +1,28 @@
+name = "If else?"
+variables = ['a', 'b']
+init_values = [0, 0]
+goal_values = [1, 1]
+clue = """
+Place the pieces in the correct
+order for a to get the value 1 and
+b to get the value 1.
+
+Here we can see a example of an
+if-statement that is used to
+decide the control-flow of the
+program, so that we can do
+different tasks depending on an
+expression a == 0 in this case.
+"""
+
+pieces = [
+    """
+if a == 0:
+    b = 2
+else:
+    b = 1
+    """,
+    """
+a = 1
+    """,
+]

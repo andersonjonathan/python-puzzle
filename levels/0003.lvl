@@ -1,0 +1,29 @@
+name = "Lists"
+variables = ['a', 'b']
+init_values = [[0, 1], [2, 3]]
+goal_values = [[0, 1, 2, 3], [2, 3]]
+clue = """
+Lists in python are indexed
+starting at 0. This means that
+b[0] is the first value in list b.
+Ex. with the folowing list:
+  b = ['q', 'w']
+Then b[0] will be 'q'.
+
+b.append() is adding a item to a
+list so with the same example
+b.append('e') will result in
+['q', 'w', 'e'].
+
+The order in a list is significant
+
+"""
+
+pieces = [
+    """
+a.append(b[0])
+    """,
+    """
+a.append(b[1])
+    """,
+]

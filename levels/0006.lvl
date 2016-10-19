@@ -1,0 +1,13 @@
+name = "Pass"
+variables = ['a']
+init_values = [0]
+goal_values = [0]
+clue = """
+pass is a no-operation statement.
+"""
+
+pieces = [
+    """
+pass  # This means do nothing.
+    """,
+]

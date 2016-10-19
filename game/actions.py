@@ -1,0 +1,4 @@
+MENU = 0
+GAME = 1
+HELP = 2
+EXIT = 3

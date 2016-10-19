@@ -1,0 +1,33 @@
+name = "Hello World!"
+variables = ['res']
+init_values = ['']
+goal_values = ['HELLO WORLD!']
+clue = """
+Concatenate the string parts
+'HELLO', the space ' ', 'WORLD'
+and exclamationmark '!' to create
+the string 'HELLO WORLD!'
+
+res is a variable and
++= is an operator that adds right
+operand to the left operand and
+assign the result to left operand.
+res += 'HELLO' is the same as
+writing
+res = res + 'HELLO'
+"""
+
+pieces = [
+    """
+res += 'HELLO'
+    """,
+    """
+res += ' '
+    """,
+    """
+res += 'WORLD'
+    """,
+    """
+res += '!'
+    """
+]
